@@ -23,7 +23,7 @@ I'm Ed, a creative tech generalist from Brooklyn. I build GPU-accelerated tools 
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey)**
 <br>
@@ -33,9 +33,9 @@ Full desktop GUI for Corridor Digital's AI green screen keyer. Hiera FlashAttent
 [![Release](https://img.shields.io/github/v/release/edenaion/EZ-CorridorKey?style=flat-square&labelColor=0A0A0A&color=50FF80)](https://github.com/edenaion/EZ-CorridorKey/releases/latest)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Ditheron & more coming soon**
+**[Ditheron & more coming soon](https://www.ezscape.space)**
 <br>
 GPU-accelerated VFX plugins for DaVinci Resolve and After Effects.
 <br><br>
