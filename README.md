@@ -15,7 +15,7 @@
 
 ### About
 
-I'm Ed, a creative tech generalist from Brooklyn. I build GPU-accelerated tools for VFX artists and filmmakers - desktop apps, plugins, and inference pipelines that put AI within reach of working creatives. Many projects on the near-term horizon, follow to stay with the journey.
+I'm Ed, a creative tech generalist from Brooklyn. I build GPU-accelerated tools for musicians, VFX artists and filmmakers - desktop apps, plugins, and inference pipelines that put AI within reach of working creatives. Many projects on the near-term horizon, follow to stay with the journey.
 
 ---
 
