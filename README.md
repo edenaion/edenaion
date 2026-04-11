@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://www.ezscape.space">
+  <img src="ezscape-banner.gif" alt="EZSCAPE" width="100%"/>
+</a>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=26&pause=1000&color=FFB000&center=true&vCenter=true&width=600&lines=creative+tech+generalist;building+tools+for+artists;serving+the+muse)](https://www.ezscape.space)
 
 <br>
