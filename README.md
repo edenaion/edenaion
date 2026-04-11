@@ -82,6 +82,6 @@ Python | PyTorch | PySide6 | CUDA | MLX | TypeScript | C++ | C | Swift | Go | Ru
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=edenaion&bg_color=000000&color=50FF80&line=FFB000&point=50FF80&area=true&area_color=FFB000&hide_border=true&custom_title=Latest%20Contributions" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edenaion&bg_color=000000&color=50FF80&line=FFB000&point=50FF80&area=true&area_color=FFB000&hide_border=true&custom_title=Accountability%20Chart" alt="Activity Graph" />
 
 </div>
