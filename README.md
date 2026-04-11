@@ -61,11 +61,16 @@ GPU-accelerated VFX plugins for DaVinci Resolve and After Effects.
   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="36" height="36"/></a>
   <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="36" height="36"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="36" height="36"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="36" height="36"/></a>
+  <a href="https://en.cppreference.com/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="36" height="36"/></a>
+  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C" width="36" height="36"/></a>
+  <a href="https://developer.apple.com/swift/"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="36" height="36"/></a>
+  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go" width="36" height="36"/></a>
   <a href="https://tauri.app/"><img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="36" height="36"/></a>
   <a href="https://ffmpeg.org/"><img src="https://cdn.simpleicons.org/ffmpeg/50FF80" alt="FFmpeg" width="36" height="36"/></a>
 </p>
 
-Python | PyTorch | PySide6 | CUDA | MLX | FFmpeg | Tauri | Rust | TypeScript
+Python | PyTorch | PySide6 | CUDA | MLX | TypeScript | C++ | C | Swift | Go | Rust | Tauri | FFmpeg
 
 </div>
 
