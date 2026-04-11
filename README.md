@@ -8,7 +8,7 @@
 [![EZSCAPE](https://img.shields.io/badge/EZSCAPE-Website-50FF80?style=flat-square&labelColor=000000)](https://www.ezscape.space)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-Support-FFB000?style=flat-square&labelColor=000000&logo=ko-fi&logoColor=FFB000)](https://ko-fi.com/edenaion)
 [![Discord](https://img.shields.io/badge/Discord-EZSCAPE-5865F2?style=flat-square&labelColor=000000&logo=discord&logoColor=50FF80)](https://discord.gg/TyxNjcWeF3)
-![Visitors](https://komarev.com/ghpvc/?username=edenaion&style=flat-square&color=FFB000&label=visitors&labelColor=FFFFFF)
+![Visitors](https://komarev.com/ghpvc/?username=edenaion&style=flat-square&color=FFB000&label=visitors&labelColor=000000)
 
 </div>
 
