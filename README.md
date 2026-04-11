@@ -4,9 +4,6 @@
   <img src="ezscape-banner.gif" alt="EZSCAPE" width="100%"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=26&pause=1000&color=FFB000&center=true&vCenter=true&width=600&lines=creative+tech+generalist;building+tools+for+artists;serving+the+muse)](https://www.ezscape.space)
-
-<br>
 
 [![EZSCAPE](https://img.shields.io/badge/EZSCAPE-Website-50FF80?style=flat-square&labelColor=000000)](https://www.ezscape.space)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-Support-FFB000?style=flat-square&labelColor=000000&logo=ko-fi&logoColor=FFB000)](https://ko-fi.com/edenaion)
