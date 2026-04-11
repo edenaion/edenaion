@@ -14,9 +14,7 @@
 
 ### About
 
-I'm Ed, a creative technologist from Brooklyn. I build GPU-accelerated tools for VFX artists and filmmakers — desktop apps, plugins, and inference pipelines that put AI within reach of working creatives.
-
-Everything I ship is built to be used, not demoed.
+I'm Ed, a creative tech generalist from Brooklyn. I build GPU-accelerated tools for VFX artists and filmmakers - desktop apps, plugins, and inference pipelines that put AI within reach of working creatives. Many projects on the near-term horizon, follow to stay with the journey.
 
 ---
 
@@ -36,9 +34,9 @@ Full desktop GUI for Corridor Digital's AI green screen keyer. Hiera FlashAttent
 </td>
 <td width="50%">
 
-**More coming soon**
+**Ditheron & more coming soon**
 <br>
-GPU-accelerated VFX plugins for DaVinci Resolve and After Effects. Desktop and cloud.
+GPU-accelerated VFX plugins for DaVinci Resolve and After Effects.
 <br><br>
 [![EZSCAPE](https://img.shields.io/badge/EZSCAPE-Plugins%20%26%20Tools-50FF80?style=flat-square&labelColor=0A0A0A)](https://www.ezscape.space)
 
