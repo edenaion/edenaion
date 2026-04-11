@@ -78,10 +78,10 @@ Python | PyTorch | PySide6 | CUDA | MLX | TypeScript | C++ | C | Swift | Go | Ru
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edenaion&theme=black-ice&hide_border=true&ring=FFB000&fire=FFB000&currStreakLabel=50FF80&sideLabels=50FF80&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666&stroke=00000000&background=0A0A0A" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=edenaion&hide_border=true&background=000000&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=50FF80&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666&stroke=1A1A1A" alt="GitHub Streak" />
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edenaion&theme=2077" alt="Profile Summary" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edenaion&bg_color=000000&color=50FF80&line=FFB000&point=50FF80&area=true&area_color=FFB000&hide_border=true" alt="Activity Graph" />
 
 </div>
