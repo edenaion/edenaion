@@ -27,7 +27,7 @@ I'm Ed, a creative tech generalist from Brooklyn. I build GPU-accelerated tools 
 
 **[EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey)**
 <br>
-Full desktop GUI for Corridor Digital's AI green screen keyer. Ships as a one-click installer for Windows and macOS.
+Full desktop GUI for Corridor Digital's AI green screen keyer. Ships as a one-click installer for Windows, macOS and Linux.
 <br><br>
 [![Stars](https://img.shields.io/github/stars/edenaion/EZ-CorridorKey?style=flat-square&labelColor=0A0A0A&color=FFB000)](https://github.com/edenaion/EZ-CorridorKey/stargazers)
 [![Release](https://img.shields.io/github/v/release/edenaion/EZ-CorridorKey?style=flat-square&labelColor=0A0A0A&color=50FF80)](https://github.com/edenaion/EZ-CorridorKey/releases/latest)
