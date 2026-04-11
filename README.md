@@ -47,13 +47,15 @@ GPU-accelerated VFX plugins for DaVinci Resolve and After Effects.
 
 ---
 
+<div align="center">
+
 ### Stack
 
 <p>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="36" height="36"/></a>
   <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="36" height="36"/></a>
   <a href="https://www.qt.io/"><img src="https://skillicons.dev/icons?i=qt" alt="Qt/PySide6" width="36" height="36"/></a>
-  <a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://skillicons.dev/icons?i=cuda" alt="CUDA" width="36" height="36"/></a>
+  <a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://cdn.simpleicons.org/nvidia/76B900" alt="CUDA" width="36" height="36"/></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="36" height="36"/></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="36" height="36"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="36" height="36"/></a>
@@ -65,6 +67,8 @@ GPU-accelerated VFX plugins for DaVinci Resolve and After Effects.
 
 Python | PyTorch | PySide6 | CUDA | MLX | FFmpeg | Tauri | Rust | TypeScript
 
+</div>
+
 ---
 
 <div align="center">
@@ -73,6 +77,6 @@ Python | PyTorch | PySide6 | CUDA | MLX | FFmpeg | Tauri | Rust | TypeScript
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edenaion&theme=github_dark" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edenaion&theme=2077" alt="Profile Summary" />
 
 </div>
