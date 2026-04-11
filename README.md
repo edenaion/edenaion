@@ -37,7 +37,7 @@ Full desktop GUI for Corridor Digital's AI green screen keyer. Hiera FlashAttent
 
 **[Ditheron & more coming soon](https://www.ezscape.space)**
 <br>
-GPU-accelerated VFX plugins for DaVinci Resolve and After Effects.
+GPU-accelerated VFX plugins for DaVinci Resolve and After Effects. Desktop and cloud. More details at launch.
 <br><br>
 [![EZSCAPE](https://img.shields.io/badge/EZSCAPE-Plugins%20%26%20Tools-50FF80?style=flat-square&labelColor=0A0A0A)](https://www.ezscape.space)
 
@@ -82,6 +82,6 @@ Python | PyTorch | PySide6 | CUDA | MLX | TypeScript | C++ | C | Swift | Go | Ru
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=edenaion&bg_color=000000&color=50FF80&line=FFB000&point=50FF80&area=true&area_color=FFB000&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edenaion&bg_color=000000&color=50FF80&line=FFB000&point=50FF80&area=true&area_color=FFB000&hide_border=true&custom_title=Latest%20Contributions" alt="Activity Graph" />
 
 </div>
