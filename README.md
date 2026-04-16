@@ -52,7 +52,7 @@ GPU-accelerated VFX plugins for DaVinci Resolve and After Effects.
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,qt,nvidia,bash,docker,rust,ts,js,cpp,c,swift,go,tauri&theme=dark" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,qt&theme=dark" alt="Stack" /><img src="https://cdn.simpleicons.org/nvidia/76B900" alt="CUDA" width="48" height="48"/><img src="https://skillicons.dev/icons?i=bash,docker,rust,ts,js,cpp,c,swift,go,tauri&theme=dark" alt="Stack" />
 
 </div>
 
