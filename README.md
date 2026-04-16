@@ -52,7 +52,9 @@ GPU-accelerated VFX plugins for DaVinci Resolve and After Effects.
 
 ### Stack
 
-<p><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="36" height="36"/></a> <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="36" height="36"/></a> <a href="https://www.qt.io/"><img src="https://skillicons.dev/icons?i=qt&theme=dark" width="36" height="36"/></a> <a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://cdn.simpleicons.org/nvidia/76B900" width="36" height="36"/></a> <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="36" height="36"/></a> <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="36" height="36"/></a> <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust&theme=dark" width="36" height="36"/></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="36" height="36"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="36" height="36"/></a> <a href="https://en.cppreference.com/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="36" height="36"/></a> <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="36" height="36"/></a> <a href="https://developer.apple.com/swift/"><img src="https://skillicons.dev/icons?i=swift&theme=dark" width="36" height="36"/></a> <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" width="36" height="36"/></a> <a href="https://tauri.app/"><img src="https://skillicons.dev/icons?i=tauri&theme=dark" width="36" height="36"/></a></p>
+<img src="https://skillicons.dev/icons?i=py,pytorch,qt,bash,docker,rust,ts,js,cpp,c,swift,go,tauri&perline=14&theme=dark" alt="Stack" />
+
+Python | PyTorch | PySide6 | CUDA | TypeScript | C++ | C | Swift | Go | Rust | Tauri
 
 </div>
 
