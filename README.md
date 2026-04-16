@@ -52,26 +52,7 @@ GPU-accelerated VFX plugins for DaVinci Resolve and After Effects.
 
 ### Stack
 
-<p>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="36" height="36"/></a>
-  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="36" height="36"/></a>
-  <a href="https://www.qt.io/"><img src="https://skillicons.dev/icons?i=qt" alt="Qt/PySide6" width="36" height="36"/></a>
-  <a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://cdn.simpleicons.org/nvidia/76B900" alt="CUDA" width="36" height="36"/></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="36" height="36"/></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="36" height="36"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="36" height="36"/></a>
-  <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="36" height="36"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="36" height="36"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="36" height="36"/></a>
-  <a href="https://en.cppreference.com/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="36" height="36"/></a>
-  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C" width="36" height="36"/></a>
-  <a href="https://developer.apple.com/swift/"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="36" height="36"/></a>
-  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go" width="36" height="36"/></a>
-  <a href="https://tauri.app/"><img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="36" height="36"/></a>
-  <a href="https://ffmpeg.org/"><img src="https://cdn.simpleicons.org/ffmpeg/50FF80" alt="FFmpeg" width="36" height="36"/></a>
-</p>
-
-Python | PyTorch | PySide6 | CUDA | MLX | TypeScript | C++ | C | Swift | Go | Rust | Tauri | FFmpeg
+<img src="https://skillicons.dev/icons?i=py,pytorch,qt,nvidia,bash,docker,rust,ts,js,cpp,c,swift,go,tauri&theme=dark" alt="Stack" />
 
 </div>
 
