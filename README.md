@@ -54,8 +54,6 @@ GPU-accelerated VFX plugins for DaVinci Resolve and After Effects.
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,qt,bash,docker,rust,ts,js,cpp,c,swift,go,tauri&perline=14&theme=dark" alt="Stack" />
 
-Python | PyTorch | PySide6 | CUDA | TypeScript | C++ | C | Swift | Go | Rust | Tauri
-
 </div>
 
 ---
