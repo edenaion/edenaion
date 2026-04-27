@@ -36,7 +36,7 @@ Full desktop GUI for Corridor Digital's AI green screen keyer. Ships as a one-cl
 </td>
 <td width="50%" valign="top">
 
-**[Ditheron & more coming soon](https://www.ezscape.space)**
+**[Ditheron & CRTified + more coming soon](https://www.ezscape.space)**
 <br>
 GPU-accelerated VFX plugins for DaVinci Resolve and After Effects.
 <br><br><br>
