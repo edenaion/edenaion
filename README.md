@@ -32,14 +32,13 @@ Full desktop GUI for Corridor Digital's AI green screen keyer. Ships as a one-cl
 [![Stars](https://img.shields.io/github/stars/edenaion/EZ-CorridorKey?style=flat-square&labelColor=0A0A0A&color=FFB000)](https://github.com/edenaion/EZ-CorridorKey/stargazers)
 [![Release](https://img.shields.io/github/v/release/edenaion/EZ-CorridorKey?style=flat-square&labelColor=0A0A0A&color=50FF80)](https://github.com/edenaion/EZ-CorridorKey/releases/latest)
 
-
 </td>
 <td width="50%" valign="top">
 
 **[Ditheron & CRTified + more coming soon](https://www.ezscape.space)**
 <br>
 GPU-accelerated VFX plugins for DaVinci Resolve and After Effects.
-<br><br><br>
+<br><br>
 [![EZSCAPE](https://img.shields.io/badge/EZSCAPE-Plugins%20%26%20Tools-50FF80?style=flat-square&labelColor=0A0A0A)](https://www.ezscape.space)
 
 </td>
