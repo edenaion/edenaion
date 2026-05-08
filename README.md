@@ -5,7 +5,7 @@
 </a>
 
 
-[![EZSCAPE](https://img.shields.io/badge/EZSCAPE-Website-50FF80?style=flat-square&labelColor=000000)](https://www.ezscape.space)
+[![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=flat-square&labelColor=000000&logo=githubsponsors&logoColor=ea4aaa)](https://github.com/sponsors/edenaion)
 [![Discord](https://img.shields.io/badge/Discord-Join-66FFFF?style=flat-square&labelColor=000000&logo=discord&logoColor=00E5FF)](https://discord.gg/TyxNjcWeF3)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-Support-FFB000?style=flat-square&labelColor=000000&logo=ko-fi&logoColor=FFB000)](https://ko-fi.com/edenaion)
 
