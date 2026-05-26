@@ -37,7 +37,7 @@ Full desktop GUI for Corridor Digital's AI chroma screen keyer. Ships as a one-c
 
 **[Ditheron & CRTified + more coming soon](https://www.ezscape.space)**
 <br>
-GPU-accelerated VFX plugins for DaVinci Resolve and After Effects.
+GPU-accelerated VFX plugins for DaVinci Resolve, After Effects & Final Cut Pro.
 <br><br>
 [![EZSCAPE](https://img.shields.io/badge/EZSCAPE-Plugins%20%26%20Tools-50FF80?style=flat-square&labelColor=0A0A0A)](https://www.ezscape.space)
 
