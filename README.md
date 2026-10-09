@@ -61,9 +61,9 @@ Shadow pattern generator. Dual-layer gobo and frame shadows with perspective, an
 
 **[EZ-CorridorKey](https://ezcorridorkey.com/?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=profile_edenaion_ezcorridorkey)**
 <br>
-Full desktop GUI for Corridor Digital's AI green screen keyer. Ships as a one-click installer for Windows, macOS and Linux.
+Full desktop GUI for Corridor Digital's AI chroma screen keyer. Ships as a one-click installer for Windows, macOS and Linux.
 <br><br>
-<a href="https://github.com/edenaion/EZ-CorridorKey"><img src="https://img.shields.io/github/stars/edenaion/EZ-CorridorKey?style=flat-square&labelColor=0A0A0A&color=FFB000" alt="Stars"/></a>
+<a href="https://github.com/edenaion/EZ-CorridorKey"><img src="https://img.shields.io/github/stars/edenaion/EZ-CorridorKey?style=flat-square&labelColor=0A0A0A&color=FFB000&cacheSeconds=3600" alt="Stars"/></a>
 <a href="https://github.com/edenaion/EZ-CorridorKey/releases/latest"><img src="https://img.shields.io/github/v/release/edenaion/EZ-CorridorKey?style=flat-square&labelColor=0A0A0A&color=50FF80" alt="Latest release"/></a>
 
 </td>
@@ -73,7 +73,7 @@ Full desktop GUI for Corridor Digital's AI green screen keyer. Ships as a one-cl
 <br>
 VS Code extension that shows each Claude Code session's context window usage in the status bar, with color-coded warnings.
 <br><br>
-<a href="https://github.com/edenaion/claude-context-bar"><img src="https://img.shields.io/github/stars/edenaion/claude-context-bar?style=flat-square&labelColor=0A0A0A&color=FFB000" alt="Stars"/></a>
+<a href="https://github.com/edenaion/claude-context-bar"><img src="https://img.shields.io/github/stars/edenaion/claude-context-bar?style=flat-square&labelColor=0A0A0A&color=FFB000&cacheSeconds=3600" alt="Stars"/></a>
 <a href="https://open-vsx.org/extension/ezoosk/claude-context-bar"><img src="https://img.shields.io/open-vsx/v/ezoosk/claude-context-bar?style=flat-square&labelColor=0A0A0A&color=50FF80" alt="Open VSX version"/></a>
 
 </td>
