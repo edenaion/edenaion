@@ -30,7 +30,7 @@ All EZSCAPE plugins run on the GPU in DaVinci Resolve, After Effects and Final C
 
 **[Ditheron 3](https://ezscape.space/ditheron/?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=profile_edenaion_ditheron)**
 <br>
-Dithering plugin with 80+ algorithms, glow and advanced compositing controls.
+Dithering megasuite with 80+ algorithms, glow, color, internal compositing controls & more
 <br>
 <a href="https://ezscape.space/ditheron/?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=profile_edenaion_ditheron"><img src="ditheron.gif" width="100%" alt="Ditheron 3 looks on shots from a vertical edit"/></a>
 
@@ -39,7 +39,7 @@ Dithering plugin with 80+ algorithms, glow and advanced compositing controls.
 
 **[CRTified 2](https://ezscape.space/crtified/?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=profile_edenaion_crtified)**
 <br>
-CRT emulation and beyond: pixel masks, phosphor glow, NTSC/PAL signal artifacts and analog distortion.
+CRT emulation and beyond: pixel masks, phosphor glow, NTSC/PAL signal artifacts, screen shaping and analog distortion.
 <br>
 <a href="https://ezscape.space/crtified/?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=profile_edenaion_crtified"><img src="crtified.gif" width="100%" alt="CRTified 2 looks on a montage of film shots"/></a>
 
